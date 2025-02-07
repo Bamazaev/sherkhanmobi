@@ -1,0 +1,1 @@
+const mobileWidht = 500;
